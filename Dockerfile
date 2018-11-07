@@ -2,7 +2,7 @@
 # AKS-Static Dockerfile for UI
 #
 FROM ubuntu:latest
-LABEL Adilson Coutrin "adcout@microsoft.com"
+LABEL Adilson Coutrin "xpo@mail"
 
 USER root
 
